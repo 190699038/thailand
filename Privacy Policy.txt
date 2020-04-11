@@ -1,0 +1,53 @@
+Privacy Policy
+
+Your privacy is important to us and we are committed to protecting your privacy, so we've developed a Privacy Policy, please take a moment to familiarize yourself with our privacy practices.
+
+Personal Information
+
+Personal information is data that can be used to uniquely identify or contact a single person.
+
+We DO NOT collect, store or use any personal information while you visit, download or upgrade our website or our products.
+
+Non-Personal Information
+
+Non-personal information is data in a form that does not permit direct association with any specific individual, including but not limited to your device and app history, contacts, SMS, location, camera, photos, media, files, wi-fi connection information ... We may collect and use non-personal information in the following circumstances to provide you useful functions in our applications.
+
+READ_PHONE_STATE: This permission is required to read the IMEI and show it in the PERSONAL tab.
+
+app may collect and use Users personal information for the following purposes:
+
+1、 To improve customer service
+
+Information you provide helps us respond to your customer service requests and support needs more efficiently.
+
+2、 To personalize user experience
+
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+
+3、To improve our app
+
+We may use feedback you provide to improve our products and services.
+
+4、To share your information with third parties
+
+We may share or sell information with third parties for marketing or other purposes.
+
+Security
+
+The security of your data is very very important to us and we ensure your information we use in the applications will not be sent to anyone with internet, all your information are stored in your device storage. 
+
+Permission
+
+For detail permission we use in the application , please open application click F.A.Q or access app info.
+
+Advertising
+
+We uses Google's mobile advertising platform Admob in free version and fully complies with their privacy and the developer's policy. Admob uses Google's Advertising ID API to provide adverts to you. These adverts can include targeted ones. You can access settings related to advertising under Google settings app on your phone. Those settings enabled and controlled by Google. You can read ithttps://www.google.com/intl/en/policiesandhttp://www.google.com/intl/en/policies/privacy/partners/
+
+Changes
+
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. we will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+
+Contact us
+
+If you have any questions regarding this Privacy Policy, you may contact us mobile.visuentertainment@gmail.com
